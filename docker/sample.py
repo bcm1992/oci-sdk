@@ -1,8 +1,5 @@
 # %% Initialize
-import requests
 import oci
-import os
-import base64
 #from Crypto.PublicKey import RSA
 #from hashlib import sha256
 
